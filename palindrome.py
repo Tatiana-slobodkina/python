@@ -1,7 +1,7 @@
-num = str(1232)
+number = str(1232)
 
-num_test = num[::-1]
-if num == num_test:
+number_test = number[::-1]
+if number == number_test:
     print("Is a palindrome")
 else:
     print("Is NOT a palindrome")
